@@ -43,6 +43,14 @@ required the ruby version `2.3.1`
 
 inside the project folder
 
+Set the environment variable
+
+- `export VISITOR_DATABASE_PASSWORD=mysql_password`
+
+or set the password in `config/database.yml`
+
+- `password: mysql_password`
+
 - run `gem install bundler`
 
 - run `bundle install`
