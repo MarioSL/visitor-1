@@ -11,7 +11,7 @@ gem 'turbolinks',     '5.0.0' #https://github.com/turbolinks/turbolinks
 gem 'jbuilder',       '2.5.0' #https://github.com/rails/jbuilder
 
 gem 'mysql2',         '0.4.4' #https://github.com/brianmario/mysql2
-gem 'devise',         '4.2.0' #https://github.com/plataformatec/devise
+gem 'devise',         '4.7.1' #https://github.com/plataformatec/devise
 gem 'simple_form',    '3.2.1' #https://github.com/plataformatec/simple_form
 gem 'bootstrap-sass', '3.3.6' #https://github.com/twbs/bootstrap-sass
 gem 'rails-i18n',     '5.0.0' #https://github.com/svenfuchs/rails-i18n
